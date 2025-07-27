@@ -1,13 +1,44 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffeef8; /* Fondo rosita claro */
+  color: #333;
+}
+
+.navbar{
+  background-color: #fc96c4;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h1 {
+  font-size: 30px;
+  color: white;
+}
+
+.icono-carrito {
+  color: white;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.icono-carrito:hover {
+  color: #ffd4ea;
+}
+
+.item-list-container {
+  padding: 40px 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.item-list-container h2 {
+  font-size: 28px;
 }
