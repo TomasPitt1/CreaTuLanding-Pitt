@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Saquito Blanco Clásico",
+    "precio": 22000,
+    "imagen": "/images/primera-edad-1.jpeg",
+    "descripcion": "Saquito tejido a mano en hilo blanco, diseño liso con botones blancos al frente. Ideal para primeros meses.",
+    "categoria": "0 a 2 meses"
+  },
+  {
+    "id": 2,
+    "nombre": "Cardigan Beige con Botones de Madera",
+    "precio": 22000,
+    "imagen": "/images/primera-edad-2.jpeg",
+    "descripcion": "Cardigan color beige con escote en V y botones de madera. Tejido cómodo y suave para el bebé.",
+    "categoria": "0 a 2 meses"
+  },
+  {
+    "id": 3,
+    "nombre": "Saquito Blanco con Rombo Beige",
+    "precio": 22000,
+    "imagen": "/images/primera-edad-3.jpeg",
+    "descripcion": "Saquito blanco con escote en V y detalle de rombos tejidos en la parte inferior. Estilo elegante y cálido.",
+    "categoria": "0 a 2 meses"
+  },
+  {
+    "id": 4,
+    "nombre": "Cardigan Blanco con Diseño Rosado",
+    "precio": 26000,
+    "imagen": "/images/segunda-edad-1.jpeg",
+    "descripcion": "Cardigan blanco con detalles en tonos rosados en mangas, pecho y cintura. Cierre con botones blancos.",
+    "categoria": "3 a 5 meses"
+  },
+  {
+    "id": 5,
+    "nombre": "Saquito Náutico Blanco y Azul",
+    "precio": 26000,
+    "imagen": "/images/segunda-edad-2.jpeg",
+    "descripcion": "Diseño blanco con dibujos marineros en azul oscuro. Botones blancos y tejido trenzado al frente.",
+    "categoria": "3 a 5 meses"
+  },
+  {
+    "id": 6,
+    "nombre": "Saquito Celeste Trenzado",
+    "precio": 26000,
+    "imagen": "/images/segunda-edad-3.jpeg",
+    "descripcion": "Saquito tejido color celeste con trenzas al frente. Perfecto para ocasiones especiales o uso diario.",
+    "categoria": "3 a 5 meses"
+  },
+  {
+    "id": 7,
+    "nombre": "Cardigan Rosa con Flores",
+    "precio": 28000,
+    "imagen": "/images/tercera-edad-1.jpeg",
+    "descripcion": "Cardigan rosado con simpático diseño de flores en la parte inferior. Cierre con botones madera.",
+    "categoria": "6 a 8 meses"
+  },
+  {
+    "id": 8,
+    "nombre": "Saquito Blanco con Motivo Gris",
+    "precio": 28000,
+    "imagen": "/images/tercera-edad-2.jpeg",
+    "descripcion": "Clásico saquito blanco con diseño geométrico en gris en el pecho y mangas. Muy abrigado y elegante.",
+    "categoria": "6 a 8 meses"
+  },
+  {
+    "id": 9,
+    "nombre": "Saquito Blanco con Detalles de Flores",
+    "precio": 28000,
+    "imagen": "/images/tercera-edad-3.jpeg",
+    "descripcion": "Saquito blanco con trenzado al frente y detalle de flores tejidas en la base. Botones blancos.",
+    "categoria": "6 a 8 meses"
+  }
+]
